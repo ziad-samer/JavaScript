@@ -1,0 +1,10 @@
+.chair-img {
+  width: 500px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.title-table{
+    font-weight: bold;
+}
